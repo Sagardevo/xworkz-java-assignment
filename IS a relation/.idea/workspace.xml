@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2083afd-8b23-4d64-81ec-dd141433eec5" name="Changes" comment="Simple Program">
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/ABCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Abhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Adhya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Appu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Araga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Arasu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Arjun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Arun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Azeem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Banglure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bargar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Baroda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bejjavalli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bettamakki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bharath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Biriyani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bonda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/CSK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Canara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Chapathi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Charan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Coffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/DCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Dall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Dasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Dhanush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Dragan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Drama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Faran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/FootBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/GT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Gaja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/ICIC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/IPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/KKR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Kabadi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Kabadu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Kantara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Karnataka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Kodachadri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Konandur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Koppa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Kowstubha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/LemanRice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/MI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Mad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Maruthi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Meals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Meenugoadu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Panipuri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Pavan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/PickUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Pratham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Pravith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Preetham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Puri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/RCB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Roti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Sagar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Shivamogga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Shriharsha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Skanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Srigeri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Srujan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Thapaswi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Thirthahalli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Tillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Troctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/TrowBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/VallyBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Vijaya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/kadubu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/plainDosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relation/src/com/XWorkz/inheritence/Runner/MainRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relation/src/com/XWorkz/inheritence/internal/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Relation/src/com/XWorkz/inheritence/internal/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Amount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Birds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Canteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Canteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Carnival.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Carnival.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Hostel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Hostel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/MainRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/MainRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/PG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/PG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Runner/MainRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Runner/MainRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Sand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Sand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Soil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Soil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Torch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/Torch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/XWorkz/inheritence/wineShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/XWorkz/inheritence/wineShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Relation/src/com/XWorkz/inheritence/internal/Vehicles.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SKANDAMV27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SKANDAMV27/Assignment_X_Workz.git&quot;,
+    &quot;accountId&quot;: &quot;417d267a-3ba5-4bb6-b915-c454c3e5c267&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vAeaPaEi3WiepGE6n9bb2gQrZB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainRunner.executor": "Run",
+    "Application.com.XWorkz.inheritence.Runner.MainRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/skand/OneDrive/Documents/Assignment_X_Workz/Inheritence",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.XWorkz.inheritence.Runner.MainRunner">
+    <configuration name="MainRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.XWorkz.inheritence.MainRunner" />
+      <module name="IS a relation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.XWorkz.inheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.XWorkz.inheritence.Runner.MainRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.XWorkz.inheritence.Runner.MainRunner" />
+      <module name="IS a relation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.XWorkz.inheritence.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.XWorkz.inheritence.Runner.MainRunner" />
+        <item itemvalue="Application.MainRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2083afd-8b23-4d64-81ec-dd141433eec5" name="Changes" comment="" />
+      <created>1743592372155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743592372155</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Simple Program">
+      <option name="closed" value="true" />
+      <created>1743618604726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743618604726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Simple Program">
+      <option name="closed" value="true" />
+      <created>1743619327498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743619327498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Simple Program">
+      <option name="closed" value="true" />
+      <created>1743619881322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743619881322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment Code" />
+    <MESSAGE value="Simple Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/XWorkz/inheritence/Internal/Mad.java</url>
+          <line>12</line>
+          <properties class="com.XWorkz.inheritence.Internal.Mad" method="hero">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
