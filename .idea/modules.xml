@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ass-5/Ass-5.iml" filepath="$PROJECT_DIR$/Ass-5/Ass-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IS a relation/IS a relation.iml" filepath="$PROJECT_DIR$/IS a relation/IS a relation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IS a relation/IS a relation/IS a relation2.iml" filepath="$PROJECT_DIR$/IS a relation/IS a relation/IS a relation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class with instance variable/class with instance variable.iml" filepath="$PROJECT_DIR$/class with instance variable/class with instance variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sagar49/sagar49.iml" filepath="$PROJECT_DIR$/sagar49/sagar49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunday/sunday/sunday.iml" filepath="$PROJECT_DIR$/sunday/sunday/sunday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunday/sunday2.iml" filepath="$PROJECT_DIR$/sunday/sunday2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xworkz-java-assignment.iml" filepath="$PROJECT_DIR$/xworkz-java-assignment.iml" />
+    </modules>
+  </component>
+</project>
